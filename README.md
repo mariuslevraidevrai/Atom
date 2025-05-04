@@ -1,4 +1,4 @@
-# Atom ⚛️Atom is an open source OS simulation in pure python  
+# ⚛️Atom is an open source OS simulation in pure python  
 # Requirements 
 -x86_64 bit CPU 
 
